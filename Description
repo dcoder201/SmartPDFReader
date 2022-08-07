@@ -1,0 +1,6 @@
+SmartPDF Reader can translate PDF contents to user desired languages .
+
+Additional functionality includes selection of single page or even a certain range of pages for translation.
+
+pyttsx3 is also be used for real time voice translation and also for saving the translated voice file
+
